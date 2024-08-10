@@ -1,0 +1,28 @@
+{
+    "name": "Satan Lord #666",
+    "symbol": "SMON",
+    "description": "The Lords of Hell Satan Lord infamous for his killing spree using his bloodthirsty Machette",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Boss"
+        },
+        {
+            "trait_type": "BST",
+            "value": "600"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

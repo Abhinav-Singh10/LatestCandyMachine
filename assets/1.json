@@ -1,0 +1,28 @@
+{
+    "name": "Frost Giant #12",
+    "symbol": "SMON",
+    "description": "Glacial Wind Strider, Mammoth Frost Tundra Dwellers",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Boss"
+        },
+        {
+            "trait_type": "BST",
+            "value": "620"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Ice"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

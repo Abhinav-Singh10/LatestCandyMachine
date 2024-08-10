@@ -1,0 +1,42 @@
+{
+  "program": {
+    "candyMachine": "2KmcVrBcwdDbbi9VzRdaYNEb9EWbBnCeCND3bm3UQ7mn",
+    "candyGuard": "",
+    "candyMachineCreator": "7r2pAnm8tQMeKahTchUXEDDuU5Dtcwg6C8NKUBUJC6a7",
+    "collectionMint": "DAFMRcXa1ZjPqTWmDES9hSCPJb3ovQhmvA8PQu8QFgMy"
+  },
+  "items": {
+    "-1": {
+      "name": "Demon Solmons Collection",
+      "image_hash": "4704f542471d0c8dca80f43dc0f6e0458dec96d00cde1976a37e9a5db6f4ea32",
+      "image_link": "https://arweave.net/O22cyFXyM9sfNVkXWOqXPCX3LnFYphZFifvfPGxmJg8?ext=png",
+      "metadata_hash": "eee5bf2ffa5e5b2edc9aa573259491309ed6450def91d0a06435760a6db2e4b8",
+      "metadata_link": "https://arweave.net/kY-KliBpWyuI2ZFlSSuLRi-wBnC9Q5sVuGve4kEp6L0",
+      "onChain": true
+    },
+    "0": {
+      "name": "Satan Lord #666",
+      "image_hash": "0ab4cfc8275af29f927c1023a5d0c7293bdf4fce112d4baf5b53b6d27e201b40",
+      "image_link": "https://arweave.net/bT-nq9uiXMeWlyypvRcM7dxeRQ2YhFAORTWI72MDHGg?ext=png",
+      "metadata_hash": "68239f86f93f16f33ff17b90b3d98bc84d409dd696a4a1416af0565699581628",
+      "metadata_link": "https://arweave.net/kWTn1cM06mglnUeWV5Ozr1shF4RyG56tvbXCkLg10Mg",
+      "onChain": true
+    },
+    "1": {
+      "name": "Frost Giant #12",
+      "image_hash": "6ce5cc8cdc22550df33f859cc9603a557cbb7495a20fde87052aa2203f7870f3",
+      "image_link": "https://arweave.net/HIE1rt5tfTmTeCsII6am8IKmPS9L5bBcFnDLx5gm378?ext=png",
+      "metadata_hash": "075d17bfb071bf48cb29832dfb53fc31d2866ca097df679d3bfcee4a32ec67ee",
+      "metadata_link": "https://arweave.net/MAPfwazoTcIEOC-v2WXEtQiD96pqU0ZYFMAdv1O1ydo",
+      "onChain": true
+    },
+    "2": {
+      "name": "Skeleton King #97",
+      "image_hash": "b41b726b6b39f2e5b299a65adf11e5c655fad88401f5a23c17928c49e4fa374c",
+      "image_link": "https://arweave.net/Lv_4x18K8KHAVT0iybhwk3xZTBGf-wEOdJd_6QzPwtI?ext=png",
+      "metadata_hash": "5a8205226132e377edb9a244c1324d5ff34c71d45aff59de64ccae078e03270c",
+      "metadata_link": "https://arweave.net/sN7RKQ1Xdty_yjy2nD-0SuKfEkR958daSS3RJ5YWp3o",
+      "onChain": true
+    }
+  }
+}

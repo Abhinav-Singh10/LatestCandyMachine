@@ -1,0 +1,28 @@
+{
+    "name": "Skeleton King #97",
+    "symbol": "SMON",
+    "description": "Once a benevolent being, now a husk of grotesque macabre.",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Boss"
+        },
+        {
+            "trait_type": "BST",
+            "value": "550"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Ghost"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
